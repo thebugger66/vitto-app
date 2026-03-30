@@ -297,7 +297,7 @@ export default function App() {
               disabled={isLoading}
               className="w-full bg-red-600 hover:bg-red-700 py-3 rounded font-semibold transition disabled:bg-gray-600"
             >
-              {isLoading ? "Waking up Server..." : "Send OTP"}
+              {isLoading ? "Signing in..." : "Send OTP"}
             </button>
           </div>
         )}
