@@ -115,9 +115,3 @@ Important: For mobile testing on a local network, use npm run dev -- --host and 
 
 
 
-
-
-## description
-
-Development Mode Notice
-The platform is currently operating in Development Mode. The OTP dispatch system is designed for local environment testing. Due to local network and CORS restrictions, the verification system may not be reachable via a standard mobile browser unless configured through a dedicated network tunnel (like Ngrok) or physical USB debugging.
